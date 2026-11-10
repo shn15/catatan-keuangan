@@ -1,0 +1,6 @@
+{
+  "name": "Catatan Kas & Laporan Keuangan",
+  "description": "Aplikasi pencatat saldo, uang masuk dan keluar dengan rekapitulasi dan ekspor laporan bulanan Excel/CSV terformat otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
